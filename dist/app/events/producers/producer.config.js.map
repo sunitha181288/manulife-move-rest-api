@@ -1,0 +1,1 @@
+{"version":3,"file":"producer.config.js","sourceRoot":"","sources":["../../../../src/app/events/producers/producer.config.ts"],"names":[],"mappings":";;;AAAA,mEAAwD;AAC3C,QAAA,eAAe,GAAG;IAC7B,OAAO,EAAE;QACP,MAAM,EAAE;YACN,QAAQ,EAAE,yBAAW,CAAC,eAAe;YACrC,OAAO,EAAE,CAAC,yBAAW,CAAC,gBAAgB,CAAC;SACxC;QACD,QAAQ,EAAE;YACR,OAAO,EAAE,yBAAW,CAAC,cAAc;SACpC;KACF;CACF,CAAC"}
